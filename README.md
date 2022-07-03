@@ -1,1 +1,2 @@
-# My Daily Leetcode Brainstrom Struggle
+# My Daily Leetcode rumbling
+
